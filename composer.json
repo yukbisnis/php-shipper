@@ -1,5 +1,5 @@
 {
-  "name": "yukbisnis/php-shipper",
+  "name": "hasandotprayoga/php-shipper",
   "type": "library",
   "keywords": [
     "shipper",
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yukbisnis\\shipper\\": "src"
+      "hasandotprayoga\\shipper\\": "src"
     }
   }
 }
