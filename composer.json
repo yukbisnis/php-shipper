@@ -1,11 +1,11 @@
 {
-  "name": "hasandotprayoga/php-shipper",
+  "name": "yubi/shipper-php",
   "type": "library",
   "keywords": [
     "shipper",
     "php"
   ],
-  "homepage": "https://github.com/yukbisnis/php-shipper",
+  "homepage": "https://github.com/yukbisnis/shipper-php",
   "license": "MIT",
   "authors": [
     {
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "hasandotprayoga\\shipper\\": "src"
+      "yubi\\shipper\\": "src"
     }
   }
 }
