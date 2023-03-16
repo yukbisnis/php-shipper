@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yubi\\shipper\\": "src"
+      "Yubi\\shipper\\": "src"
     }
   }
 }

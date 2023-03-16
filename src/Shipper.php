@@ -1,6 +1,6 @@
 <?php 
 
-namespace hasandotprayoga\shipper;
+namespace Yubi\shipper;
 
 class Shipper
 {
